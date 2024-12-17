@@ -23,6 +23,6 @@ A simple Python script to connect to a Qdrant instance, fetch all collections, a
    cd qdrant-shard-inspector
 
 2. Install dependencies
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
