@@ -1,6 +1,6 @@
 # qdrant-collection-inspector
 
-A simple Python script to connect to a Qdrant instance, fetch all collections, and display their shard IDs in a user-friendly table format.
+##A simple Python script to connect to a Qdrant instance, fetch all collections, and display their shard IDs in a user-friendly table format.
 
 ## Features
 
