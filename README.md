@@ -26,3 +26,8 @@ A simple Python script to connect to a Qdrant instance, fetch all collections, a
    ```bash
    pip install -r requirements.txt
 
+3. Configure Qdrant connection in src/config/settings.py:
+   ```bash
+   QDRANT_URL = "your-qdrant-url"
+   QDRANT_API_KEY = "your-api-key"
+
