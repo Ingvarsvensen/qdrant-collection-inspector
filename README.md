@@ -21,3 +21,8 @@ A simple Python script to connect to a Qdrant instance, fetch all collections, a
    ```bash
    git clone https://github.com/your-username/qdrant-shard-inspector.git
    cd qdrant-shard-inspector
+
+2. Install dependencies
+  ```bash
+  pip install -r requirements.txt
+
