@@ -27,7 +27,6 @@ def create_collection_with_shards(collection_name, shard_count):
 
 
 if __name__ == "__main__":
-    # Create a new collection with 3 shards
     create_collection_with_shards("test_sharded_collection_2", 5)
   
 ################### All of the code below for the test purposes and understanding the structure
