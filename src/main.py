@@ -37,7 +37,7 @@ def fetch_and_print_shards():
         print(tabulate(table_data, headers=["Collection Name", "Shard IDs"], tablefmt="grid"))
     else:
         print("No shard information available.")
-      
+
 
 if __name__ == "__main__":
     fetch_and_print_shards()
