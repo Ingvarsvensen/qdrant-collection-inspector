@@ -7,7 +7,7 @@ A simple Python script to connect to a Qdrant instance, fetch all collections, a
 - Connects to a Qdrant instance using the Qdrant Python client.
 - Fetches all collections available in the instance.
 - Displays shard information for each collection:
-  - **Combined shard IDs** in one row.
+- **Combined shard IDs** in one row.
 - Clean, readable output using `tabulate`.
 
 ## Prerequisites
